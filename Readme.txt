@@ -1,0 +1,1 @@
+This repository contains algorithms done during classes and by myself.
